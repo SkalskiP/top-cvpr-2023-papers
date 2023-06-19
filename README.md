@@ -14,6 +14,7 @@ This repository is a curated collection of the most exciting and influential CVP
 
 | **title** | **authors** |  **paper** | **code** |
 |:---------:|:-----------:|:---------:|:--------:|
+| Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition | Guo, Chen and Jiang, Tianjian and Chen, Xu and Song, Jie and Hilliges, Otmar | [![arXiv](https://img.shields.io/badge/arXiv-2302.11566-b31b1b.svg)](https://arxiv.org/abs/2302.11566) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MoyGcc/vid2avatar) |
 | 3D-aware Conditional Image Synthesis | Kangle Deng, Gengshan Yang, Deva Ramanan, Jun-Yan Zhu | [![arXiv](https://img.shields.io/badge/arXiv-2302.08509-b31b1b.svg)](https://arxiv.org/abs/2302.08509) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/dunbar12138/pix2pix3d) |
 | 3D Human Mesh Estimation from Virtual Markers | Xiaoxuan Ma, Jiajun Su, Chunyu Wang, Wentao Zhu, Yizhou Wang | [![arXiv](https://img.shields.io/badge/arXiv-2303.11726-b31b1b.svg)](https://arxiv.org/abs/2303.11726) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/ShirleyMaxx/VirtualMarker) |
 
