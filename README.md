@@ -8,13 +8,14 @@
 
 ## 👋 hello 
 
-This repository is a curated collection of the most influential CVPR 2023 papers.
+This repository is a curated collection of the most exciting and influential CVPR 2023 papers.
 
 ## 🗞️ papers
 
-| **title** | **authors** | **research group** | **paper** | **code** |
-|:---------:|:-----------:|:------------------:|:---------:|:--------:|
-| 3D-aware Conditional Image Synthesis | Kangle Deng, Gengshan Yang, Deva Ramanan, Jun-Yan Zhu | Carnegie Mellon University | [![arXiv](https://img.shields.io/badge/arXiv-2302.08509-b31b1b.svg)](https://arxiv.org/abs/2302.08509) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/dunbar12138/pix2pix3d) |
+| **title** | **authors** |  **paper** | **code** |
+|:---------:|:-----------:|:---------:|:--------:|
+| 3D-aware Conditional Image Synthesis | Kangle Deng, Gengshan Yang, Deva Ramanan, Jun-Yan Zhu | [![arXiv](https://img.shields.io/badge/arXiv-2302.08509-b31b1b.svg)](https://arxiv.org/abs/2302.08509) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/dunbar12138/pix2pix3d) |
+| 3D Human Mesh Estimation from Virtual Markers | Xiaoxuan Ma, Jiajun Su, Chunyu Wang, Wentao Zhu, Yizhou Wang | [![arXiv](https://img.shields.io/badge/arXiv-2303.11726-b31b1b.svg)](https://arxiv.org/abs/2303.11726) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/ShirleyMaxx/VirtualMarker) |
 
 ## 🦸 contribution
 
