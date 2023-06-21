@@ -1,0 +1,11 @@
+title,paper,code
+"OneFormer: One Transformer To Rule Universal Image Segmentation","2211.06220","https://github.com/SHI-Labs/OneFormer"
+"X-Decoder: Generalized Decoding for Pixel, Image and Language","2212.11270","https://github.com/microsoft/X-Decoder"
+"Images Speak in Images: A Generalist Painter for In-Context Visual Learning","2212.02499","https://github.com/baaivision/Painter/tree/main/Painter"
+"PACO: Parts and Attributes of Common Objects","2301.01795","https://github.com/facebookresearch/paco"
+"Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP","2210.04150","https://github.com/facebookresearch/ov-seg"
+"DynIBaR: Neural Dynamic Image-Based Rendering","2211.11082","https://github.com/google/dynibar"
+"Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition","2302.11566","https://github.com/MoyGcc/vid2avatar"
+"3D-aware Conditional Image Synthesis","2302.08509","https://github.com/dunbar12138/pix2pix3d"
+"3D Human Mesh Estimation from Virtual Markers","2303.11726","https://github.com/ShirleyMaxx/VirtualMarker"
+"A Data-Based Perspective on Transfer Learning","2207.05739","https://github.com/MadryLab/data-transfer"
