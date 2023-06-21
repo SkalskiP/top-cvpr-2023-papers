@@ -9,3 +9,7 @@ title,paper,code
 "3D-aware Conditional Image Synthesis","2302.08509","https://github.com/dunbar12138/pix2pix3d"
 "3D Human Mesh Estimation from Virtual Markers","2303.11726","https://github.com/ShirleyMaxx/VirtualMarker"
 "A Data-Based Perspective on Transfer Learning","2207.05739","https://github.com/MadryLab/data-transfer"
+"Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models","2303.04803","https://github.com/NVlabs/ODISE"
+"DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation","2208.12242","https://github.com/google/dreambooth"
+"InstructPix2Pix: Learning to Follow Image Editing Instructions","2211.09800","https://github.com/timothybrooks/instruct-pix2pix"
+"High-resolution image reconstruction with latent diffusion models from human brain activity","2306.11536","https://github.com/yu-takagi/StableDiffusionReconstruction"
