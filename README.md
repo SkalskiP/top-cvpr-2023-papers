@@ -12,12 +12,14 @@ This repository is a curated collection of the most exciting and influential CVP
 
 ## 🗞️ papers
 
-| **title** | **authors** |  **paper** | **code** |
-|:---------:|:-----------:|:---------:|:--------:|
-| Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition | Guo, Chen and Jiang, Tianjian and Chen, Xu and Song, Jie and Hilliges, Otmar | [![arXiv](https://img.shields.io/badge/arXiv-2302.11566-b31b1b.svg)](https://arxiv.org/abs/2302.11566) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MoyGcc/vid2avatar) |
-| 3D-aware Conditional Image Synthesis | Kangle Deng, Gengshan Yang, Deva Ramanan, Jun-Yan Zhu | [![arXiv](https://img.shields.io/badge/arXiv-2302.08509-b31b1b.svg)](https://arxiv.org/abs/2302.08509) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/dunbar12138/pix2pix3d) |
-| 3D Human Mesh Estimation from Virtual Markers | Xiaoxuan Ma, Jiajun Su, Chunyu Wang, Wentao Zhu, Yizhou Wang | [![arXiv](https://img.shields.io/badge/arXiv-2303.11726-b31b1b.svg)](https://arxiv.org/abs/2303.11726) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/ShirleyMaxx/VirtualMarker) |
-| BITE: Beyond Priors for Improved Three-D Dog Pose Estimation | Nadine Rüegg, Shashank Tripathi, Konrad Schindler, Michael J. Black, Silvia Zuffi | [link](https://openaccess.thecvf.com/content/CVPR2023/papers/Ruegg_BITE_Beyond_Priors_for_Improved_Three-D_Dog_Pose_Estimation_CVPR_2023_paper.pdf) | soon |
+| **title** |  **paper** | **code** |
+|:---------:|:----------:|:--------:|
+| OneFormer: One Transformer To Rule Universal Image Segmentation | [![arXiv](https://img.shields.io/badge/arXiv-2211.06220-b31b1b.svg)](https://arxiv.org/abs/2211.06220) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/SHI-Labs/OneFormer) |
+| X-Decoder: Generalized Decoding for Pixel, Image and Language | [![arXiv](https://img.shields.io/badge/arXiv-2212.11270-b31b1b.svg)](https://arxiv.org/abs/2212.11270) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/microsoft/X-Decoder) |
+| Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition | [![arXiv](https://img.shields.io/badge/arXiv-2302.11566-b31b1b.svg)](https://arxiv.org/abs/2302.11566) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MoyGcc/vid2avatar) |
+| 3D-aware Conditional Image Synthesis | [![arXiv](https://img.shields.io/badge/arXiv-2302.08509-b31b1b.svg)](https://arxiv.org/abs/2302.08509) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/dunbar12138/pix2pix3d) |
+| 3D Human Mesh Estimation from Virtual Markers | [![arXiv](https://img.shields.io/badge/arXiv-2303.11726-b31b1b.svg)](https://arxiv.org/abs/2303.11726) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/ShirleyMaxx/VirtualMarker) |
+| BITE: Beyond Priors for Improved Three-D Dog Pose Estimation | [link](https://openaccess.thecvf.com/content/CVPR2023/papers/Ruegg_BITE_Beyond_Priors_for_Improved_Three-D_Dog_Pose_Estimation_CVPR_2023_paper.pdf) | soon |
 
 ## 🦸 contribution
 
