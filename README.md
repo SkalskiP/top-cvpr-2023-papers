@@ -18,7 +18,8 @@ This repository is a curated collection of the most exciting and influential CVP
 | 3D-aware Conditional Image Synthesis | Kangle Deng, Gengshan Yang, Deva Ramanan, Jun-Yan Zhu | [![arXiv](https://img.shields.io/badge/arXiv-2302.08509-b31b1b.svg)](https://arxiv.org/abs/2302.08509) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/dunbar12138/pix2pix3d) |
 | 3D Human Mesh Estimation from Virtual Markers | Xiaoxuan Ma, Jiajun Su, Chunyu Wang, Wentao Zhu, Yizhou Wang | [![arXiv](https://img.shields.io/badge/arXiv-2303.11726-b31b1b.svg)](https://arxiv.org/abs/2303.11726) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/ShirleyMaxx/VirtualMarker) |
 | BITE: Beyond Priors for Improved Three-D Dog Pose Estimation | Nadine Rüegg, Shashank Tripathi, Konrad Schindler, Michael J. Black, Silvia Zuffi | [link](https://openaccess.thecvf.com/content/CVPR2023/papers/Ruegg_BITE_Beyond_Priors_for_Improved_Three-D_Dog_Pose_Estimation_CVPR_2023_paper.pdf) | soon |
-| DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation | [link](https://openaccess.thecvf.com/content/CVPR2023/papers/Ruiz_DreamBooth_Fine_Tuning_Text-to-Image_Diffusion_Models_for_Subject-Driven_Generation_CVPR_2023_paper.pdf) | [link](https://github.com/google/dreambooth) |
+| DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation | Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Yael Pritch, Michael Rubinstein, Kfir Aberman | [link](https://openaccess.thecvf.com/content/CVPR2023/papers/Ruiz_DreamBooth_Fine_Tuning_Text-to-Image_Diffusion_Models_for_Subject-Driven_Generation_CVPR_2023_paper.pdf) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google/dreambooth) |
+
 ## 🦸 contribution
 
 We would love your help in making this repository even better! If you know of an amazing paper that isn't listed
