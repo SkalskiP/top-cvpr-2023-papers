@@ -13,3 +13,5 @@ title,paper,code
 "DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation","2208.12242","https://github.com/google/dreambooth"
 "InstructPix2Pix: Learning to Follow Image Editing Instructions","2211.09800","https://github.com/timothybrooks/instruct-pix2pix"
 "High-resolution image reconstruction with latent diffusion models from human brain activity","2306.11536","https://github.com/yu-takagi/StableDiffusionReconstruction"
+"Beyond mAP: Towards better evaluation of instance segmentation","2207.01614","https://github.com/rohitrango/beyond-map"
+"SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields","2211.12254","https://github.com/SamsungLabs/SPIn-NeRF"
