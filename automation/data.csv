@@ -13,3 +13,5 @@ title,paper,code
 "DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation","2208.12242","https://github.com/google/dreambooth"
 "InstructPix2Pix: Learning to Follow Image Editing Instructions","2211.09800","https://github.com/timothybrooks/instruct-pix2pix"
 "High-resolution image reconstruction with latent diffusion models from human brain activity","2306.11536","https://github.com/yu-takagi/StableDiffusionReconstruction"
+"ECON: Explicit Clothed humans Optimized via Normal integration","2212.07422","https://github.com/YuliangXiu/ECON"
+"OmniObject3D: Large Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation","2301.07525","https://github.com/omniobject3d/OmniObject3D/tree/main"
