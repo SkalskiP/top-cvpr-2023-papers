@@ -8,7 +8,7 @@
 
 ## 👋 hello
 
-This repository is a curated collection of the most exciting and influential CVPR 2023 papers.
+Computer Vision and Pattern Recognition is a massive conference. In **2023** alone, **9155** papers were submitted, and **2359** were accepted. I created this repository to help you and me search for papers worthy of attention. It is a curated collection of the most exciting and influential CVPR 2023 papers.
 
 ## 🗞️ papers
 
