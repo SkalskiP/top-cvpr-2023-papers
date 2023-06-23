@@ -5,6 +5,7 @@ import pandas as pd
 
 from pandas.core.series import Series
 
+TOPIC_COLUMN_NAME = "topic"
 TITLE_COLUMN_NAME = "title"
 PAPER_COLUMN_NAME = "paper"
 CODE_COLUMN_NAME = "code"
@@ -19,11 +20,12 @@ WARNING_HEADER = [
 ]
 
 TABLE_HEADER = [
-    "| **title** | **repository / paper** |",
-    "|:---------:|:----------------------:|"
+    "| **topic** | **title** | **repository / paper** |",
+    "|:---------:|:---------:|:----------------------:|"
 ]
 
-GITHUB_BADGE_PATTERN = "[![GitHub](https://badges.aleen42.com/src/github.svg)]({})"
+GITHUB_CODE_PREFIX = "https://github.com/"
+GITHUB_BADGE_PATTERN = "[![GitHub](https://img.shields.io/github/stars/{}?style=social)]({})"
 ARXIV_BADGE_PATTERN = "[![arXiv](https://img.shields.io/badge/arXiv-{}-b31b1b.svg)](https://arxiv.org/abs/{})"
 
 
@@ -39,12 +41,14 @@ def save_lines_to_file(path: str, lines: List[str]) -> None:
 
 
 def format_entry(entry: Series) -> str:
+    topic = entry.loc[TOPIC_COLUMN_NAME]
     title = entry.loc[TITLE_COLUMN_NAME]
-    paper = entry.loc[PAPER_COLUMN_NAME]
-    code = entry.loc[CODE_COLUMN_NAME]
-    github_badge = GITHUB_BADGE_PATTERN.format(code) if code else ""
-    arxiv_badge = ARXIV_BADGE_PATTERN.format(paper, paper) if paper else ""
-    return f"| {title} |  {github_badge} {arxiv_badge}|"
+    paper_url = entry.loc[PAPER_COLUMN_NAME]
+    code_url = entry.loc[CODE_COLUMN_NAME]
+    stripped_code_url = code_url.replace(GITHUB_CODE_PREFIX, "")
+    github_badge = GITHUB_BADGE_PATTERN.format(stripped_code_url, code_url) if code_url else ""
+    arxiv_badge = ARXIV_BADGE_PATTERN.format(paper_url, paper_url) if paper_url else ""
+    return f"| {topic} | {title} |  {github_badge} {arxiv_badge}|"
 
 
 def load_table_entries(path: str) -> List[str]:

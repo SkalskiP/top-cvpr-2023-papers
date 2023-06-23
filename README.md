@@ -1,4 +1,4 @@
-<h1 align="center">top cvpr 2023 papers</h1>
+<h1 align="center">crème de la crème of CVPR 2023</h1>
 
 <p align="center">
     </br>
@@ -8,7 +8,7 @@
 
 ## 👋 hello
 
-Computer Vision and Pattern Recognition is a massive conference. In **2023** alone, **9155** papers were submitted, and **2359** were accepted. I created this repository to help you and me search for papers worthy of attention. It is a curated collection of the most exciting and influential CVPR 2023 papers.
+Computer Vision and Pattern Recognition is a massive conference. In **2023** alone, **9155** papers were submitted, and **2359** were accepted. I created this repository to help you search for crème de la crème of CVPR publications. If the paper you are looking for is not on my short list, take a peek at the full [list](https://cvpr2023.thecvf.com/Conferences/2023/AcceptedPapers) of accepted papers.
 
 ## 🗞️ papers
 
@@ -17,27 +17,27 @@ Computer Vision and Pattern Recognition is a massive conference. In **2023** alo
    WARNING: DO NOT EDIT THIS TABLE MANUALLY. IT IS AUTOMATICALLY GENERATED.
    HEAD OVER TO CONTRIBUTING.MD FOR MORE DETAILS ON HOW TO MAKE CHANGES PROPERLY.
 -->
-| **title** | **repository / paper** |
-|:---------:|:----------------------:|
-| OneFormer: One Transformer To Rule Universal Image Segmentation |  [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/SHI-Labs/OneFormer) [![arXiv](https://img.shields.io/badge/arXiv-2211.0622-b31b1b.svg)](https://arxiv.org/abs/2211.0622)|
-| X-Decoder: Generalized Decoding for Pixel, Image and Language |  [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/microsoft/X-Decoder) [![arXiv](https://img.shields.io/badge/arXiv-2212.1127-b31b1b.svg)](https://arxiv.org/abs/2212.1127)|
-| Images Speak in Images: A Generalist Painter for In-Context Visual Learning |  [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/baaivision/Painter/tree/main/Painter) [![arXiv](https://img.shields.io/badge/arXiv-2212.02499-b31b1b.svg)](https://arxiv.org/abs/2212.02499)|
-| PACO: Parts and Attributes of Common Objects |  [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/facebookresearch/paco) [![arXiv](https://img.shields.io/badge/arXiv-2301.01795-b31b1b.svg)](https://arxiv.org/abs/2301.01795)|
-| Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP |  [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/facebookresearch/ov-seg) [![arXiv](https://img.shields.io/badge/arXiv-2210.0415-b31b1b.svg)](https://arxiv.org/abs/2210.0415)|
-| DynIBaR: Neural Dynamic Image-Based Rendering |  [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google/dynibar) [![arXiv](https://img.shields.io/badge/arXiv-2211.11082-b31b1b.svg)](https://arxiv.org/abs/2211.11082)|
-| Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition |  [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MoyGcc/vid2avatar) [![arXiv](https://img.shields.io/badge/arXiv-2302.11566-b31b1b.svg)](https://arxiv.org/abs/2302.11566)|
-| 3D-aware Conditional Image Synthesis |  [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/dunbar12138/pix2pix3d) [![arXiv](https://img.shields.io/badge/arXiv-2302.08509-b31b1b.svg)](https://arxiv.org/abs/2302.08509)|
-| 3D Human Mesh Estimation from Virtual Markers |  [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/ShirleyMaxx/VirtualMarker) [![arXiv](https://img.shields.io/badge/arXiv-2303.11726-b31b1b.svg)](https://arxiv.org/abs/2303.11726)|
-| A Data-Based Perspective on Transfer Learning |  [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MadryLab/data-transfer) [![arXiv](https://img.shields.io/badge/arXiv-2207.05739-b31b1b.svg)](https://arxiv.org/abs/2207.05739)|
-| Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models |  [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/NVlabs/ODISE) [![arXiv](https://img.shields.io/badge/arXiv-2303.04803-b31b1b.svg)](https://arxiv.org/abs/2303.04803)|
-| DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation |  [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google/dreambooth) [![arXiv](https://img.shields.io/badge/arXiv-2208.12242-b31b1b.svg)](https://arxiv.org/abs/2208.12242)|
-| InstructPix2Pix: Learning to Follow Image Editing Instructions |  [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/timothybrooks/instruct-pix2pix) [![arXiv](https://img.shields.io/badge/arXiv-2211.098-b31b1b.svg)](https://arxiv.org/abs/2211.098)|
-| High-resolution image reconstruction with latent diffusion models from human brain activity |  [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/yu-takagi/StableDiffusionReconstruction) [![arXiv](https://img.shields.io/badge/arXiv-2306.11536-b31b1b.svg)](https://arxiv.org/abs/2306.11536)|
-| Beyond mAP: Towards better evaluation of instance segmentation |  [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/rohitrango/beyond-map) [![arXiv](https://img.shields.io/badge/arXiv-2207.01614-b31b1b.svg)](https://arxiv.org/abs/2207.01614)|
-| SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields |  [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/SamsungLabs/SPIn-NeRF) [![arXiv](https://img.shields.io/badge/arXiv-2211.12254-b31b1b.svg)](https://arxiv.org/abs/2211.12254)|
-| Omni3D: A Large Benchmark and Model for 3D Object Detection in the Wild |  [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/facebookresearch/omni3d) [![arXiv](https://img.shields.io/badge/arXiv-2207.10660-b31b1b.svg)](https://arxiv.org/abs/2207.10660)|
-| ECON: Explicit Clothed humans Optimized via Normal integration |  [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/YuliangXiu/ECON) [![arXiv](https://img.shields.io/badge/arXiv-2212.07422-b31b1b.svg)](https://arxiv.org/abs/2212.07422)|
-| NeuralLift-360: Lifting An In-the-wild 2D Photo to A 3D Object with 360° Views |  [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/VITA-Group/NeuralLift-360) [![arXiv](https://img.shields.io/badge/arXiv-2211.16431-b31b1b.svg)](https://arxiv.org/abs/2211.16431)|
+| **topic** | **title** | **repository / paper** |
+|:---------:|:---------:|:----------------------:|
+| Segmentation | OneFormer: One Transformer To Rule Universal Image Segmentation |  [![GitHub](https://img.shields.io/github/stars/SHI-Labs/OneFormer?style=social)](https://github.com/SHI-Labs/OneFormer) [![arXiv](https://img.shields.io/badge/arXiv-2211.0622-b31b1b.svg)](https://arxiv.org/abs/2211.0622)|
+| Segmentation | X-Decoder: Generalized Decoding for Pixel, Image and Language |  [![GitHub](https://img.shields.io/github/stars/microsoft/X-Decoder?style=social)](https://github.com/microsoft/X-Decoder) [![arXiv](https://img.shields.io/badge/arXiv-2212.1127-b31b1b.svg)](https://arxiv.org/abs/2212.1127)|
+| Segmentation and Generative AI | Images Speak in Images: A Generalist Painter for In-Context Visual Learning |  [![GitHub](https://img.shields.io/github/stars/baaivision/Painter?style=social)](https://github.com/baaivision/Painter) [![arXiv](https://img.shields.io/badge/arXiv-2212.02499-b31b1b.svg)](https://arxiv.org/abs/2212.02499)|
+| Segmentation | PACO: Parts and Attributes of Common Objects |  [![GitHub](https://img.shields.io/github/stars/facebookresearch/paco?style=social)](https://github.com/facebookresearch/paco) [![arXiv](https://img.shields.io/badge/arXiv-2301.01795-b31b1b.svg)](https://arxiv.org/abs/2301.01795)|
+| Segmentation | Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP |  [![GitHub](https://img.shields.io/github/stars/facebookresearch/ov-seg?style=social)](https://github.com/facebookresearch/ov-seg) [![arXiv](https://img.shields.io/badge/arXiv-2210.0415-b31b1b.svg)](https://arxiv.org/abs/2210.0415)|
+| NeRF | DynIBaR: Neural Dynamic Image-Based Rendering |  [![GitHub](https://img.shields.io/github/stars/google/dynibar?style=social)](https://github.com/google/dynibar) [![arXiv](https://img.shields.io/badge/arXiv-2211.11082-b31b1b.svg)](https://arxiv.org/abs/2211.11082)|
+| 3D | Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition |  [![GitHub](https://img.shields.io/github/stars/MoyGcc/vid2avatar?style=social)](https://github.com/MoyGcc/vid2avatar) [![arXiv](https://img.shields.io/badge/arXiv-2302.11566-b31b1b.svg)](https://arxiv.org/abs/2302.11566)|
+| Generative AI | 3D-aware Conditional Image Synthesis |  [![GitHub](https://img.shields.io/github/stars/dunbar12138/pix2pix3d?style=social)](https://github.com/dunbar12138/pix2pix3d) [![arXiv](https://img.shields.io/badge/arXiv-2302.08509-b31b1b.svg)](https://arxiv.org/abs/2302.08509)|
+| 3D | 3D Human Mesh Estimation from Virtual Markers |  [![GitHub](https://img.shields.io/github/stars/ShirleyMaxx/VirtualMarker?style=social)](https://github.com/ShirleyMaxx/VirtualMarker) [![arXiv](https://img.shields.io/badge/arXiv-2303.11726-b31b1b.svg)](https://arxiv.org/abs/2303.11726)|
+| Transfer Learning | A Data-Based Perspective on Transfer Learning |  [![GitHub](https://img.shields.io/github/stars/MadryLab/data-transfer?style=social)](https://github.com/MadryLab/data-transfer) [![arXiv](https://img.shields.io/badge/arXiv-2207.05739-b31b1b.svg)](https://arxiv.org/abs/2207.05739)|
+| Segmentation | Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models |  [![GitHub](https://img.shields.io/github/stars/NVlabs/ODISE?style=social)](https://github.com/NVlabs/ODISE) [![arXiv](https://img.shields.io/badge/arXiv-2303.04803-b31b1b.svg)](https://arxiv.org/abs/2303.04803)|
+| Generative AI | DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation |  [![GitHub](https://img.shields.io/github/stars/google/dreambooth?style=social)](https://github.com/google/dreambooth) [![arXiv](https://img.shields.io/badge/arXiv-2208.12242-b31b1b.svg)](https://arxiv.org/abs/2208.12242)|
+| Generative AI | InstructPix2Pix: Learning to Follow Image Editing Instructions |  [![GitHub](https://img.shields.io/github/stars/timothybrooks/instruct-pix2pix?style=social)](https://github.com/timothybrooks/instruct-pix2pix) [![arXiv](https://img.shields.io/badge/arXiv-2211.098-b31b1b.svg)](https://arxiv.org/abs/2211.098)|
+| Generative AI | High-resolution image reconstruction with latent diffusion models from human brain activity |  [![GitHub](https://img.shields.io/github/stars/yu-takagi/StableDiffusionReconstruction?style=social)](https://github.com/yu-takagi/StableDiffusionReconstruction) [![arXiv](https://img.shields.io/badge/arXiv-2306.11536-b31b1b.svg)](https://arxiv.org/abs/2306.11536)|
+| Benchmarking | Beyond mAP: Towards better evaluation of instance segmentation |  [![GitHub](https://img.shields.io/github/stars/rohitrango/beyond-map?style=social)](https://github.com/rohitrango/beyond-map) [![arXiv](https://img.shields.io/badge/arXiv-2207.01614-b31b1b.svg)](https://arxiv.org/abs/2207.01614)|
+| NeRF | SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields |  [![GitHub](https://img.shields.io/github/stars/SamsungLabs/SPIn-NeRF?style=social)](https://github.com/SamsungLabs/SPIn-NeRF) [![arXiv](https://img.shields.io/badge/arXiv-2211.12254-b31b1b.svg)](https://arxiv.org/abs/2211.12254)|
+| 3D | Omni3D: A Large Benchmark and Model for 3D Object Detection in the Wild |  [![GitHub](https://img.shields.io/github/stars/facebookresearch/omni3d?style=social)](https://github.com/facebookresearch/omni3d) [![arXiv](https://img.shields.io/badge/arXiv-2207.1066-b31b1b.svg)](https://arxiv.org/abs/2207.1066)|
+| 3D | ECON: Explicit Clothed humans Optimized via Normal integration |  [![GitHub](https://img.shields.io/github/stars/YuliangXiu/ECON?style=social)](https://github.com/YuliangXiu/ECON) [![arXiv](https://img.shields.io/badge/arXiv-2212.07422-b31b1b.svg)](https://arxiv.org/abs/2212.07422)|
+| 3D | NeuralLift-360: Lifting An In-the-wild 2D Photo to A 3D Object with 360° Views |  [![GitHub](https://img.shields.io/github/stars/VITA-Group/NeuralLift-360?style=social)](https://github.com/VITA-Group/NeuralLift-360) [![arXiv](https://img.shields.io/badge/arXiv-2211.16431-b31b1b.svg)](https://arxiv.org/abs/2211.16431)|
 <!--- AUTOGENERATED_COURSES_TABLE -->
 
 ## 🦸 contribution
