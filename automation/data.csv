@@ -15,3 +15,6 @@ title,paper,code
 "High-resolution image reconstruction with latent diffusion models from human brain activity","2306.11536","https://github.com/yu-takagi/StableDiffusionReconstruction"
 "Beyond mAP: Towards better evaluation of instance segmentation","2207.01614","https://github.com/rohitrango/beyond-map"
 "SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields","2211.12254","https://github.com/SamsungLabs/SPIn-NeRF"
+"Omni3D: A Large Benchmark and Model for 3D Object Detection in the Wild","2207.10660","https://github.com/facebookresearch/omni3d"
+"ECON: Explicit Clothed humans Optimized via Normal integration","2212.07422","https://github.com/YuliangXiu/ECON"
+"NeuralLift-360: Lifting An In-the-wild 2D Photo to A 3D Object with 360° Views","2211.16431","https://github.com/VITA-Group/NeuralLift-360"
