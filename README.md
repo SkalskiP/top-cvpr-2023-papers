@@ -2,7 +2,7 @@
 
 <p align="center">
     </br>
-    <img width="600" src="https://github.com/SkalskiP/top-cvpr-2023-papers/assets/26109316/793d71f5-6034-4342-a8b3-2a08646a6aa0" alt="vancouver">
+    <img width="600" src="https://github.com/SkalskiP/top-cvpr-2023-papers/assets/26109316/2d7be39e-11a0-4298-ad90-c0645af0c5ac" alt="vancouver">
     </br>
 </p>
 
