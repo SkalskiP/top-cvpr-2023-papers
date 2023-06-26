@@ -52,7 +52,7 @@ def format_entry(entry: Series) -> str:
 
 
 def load_table_entries(path: str) -> List[str]:
-    df = pd.read_csv(path,  quotechar='"')
+    df = pd.read_csv(path,  quotechar='"', dtype=str)
     df.columns = df.columns.str.strip()
     return [
         format_entry(row)
