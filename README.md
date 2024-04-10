@@ -1,4 +1,4 @@
-<h1 align="center">crème de la crème of CVPR 2023</h1>
+<h1 align="center">top CVPR 2023 papers</h1>
 
 <p align="center">
     </br>
@@ -8,7 +8,7 @@
 
 ## 👋 hello
 
-Computer Vision and Pattern Recognition is a massive conference. In **2023** alone, **9155** papers were submitted, and **2359** were accepted. I created this repository to help you search for crème de la crème of CVPR publications. If the paper you are looking for is not on my short list, take a peek at the full [list](https://cvpr2023.thecvf.com/Conferences/2023/AcceptedPapers) of accepted papers.
+Computer Vision and Pattern Recognition is a massive conference. In **2023** alone, **9155** papers were submitted, and **2359** were accepted. I created this repository to help you search for crème de la crème of CVPR publications. If the paper you are looking for is not on my short list, take a peek at the full [list](https://cvpr.thecvf.com/Conferences/2023/AcceptedPapers) of accepted papers.
 
 ## 🗞️ papers
 
